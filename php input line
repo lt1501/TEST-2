@@ -7,5 +7,5 @@ if(trim($line) != 'yes'){
     exit;
 }
 echo "\n"; 
-echo "Thank you, continuing...\n";
+echo "Thank you, please come again!\n";
 ?>
